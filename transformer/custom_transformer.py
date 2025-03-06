@@ -2,7 +2,6 @@
 import torch
 import torch.nn as nn
 import math
-import numpy as np
 
 # Convert sentences into IDs
 class InputEmbeddings(nn.Module):
